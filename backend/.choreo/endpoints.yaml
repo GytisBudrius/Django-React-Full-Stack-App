@@ -5,4 +5,3 @@ endpoints:
     type: REST
     networkVisibility: Public
     context: /
-    schemaFilePath: null
